@@ -1,0 +1,27 @@
+sport-store/
+├── public/
+├── src/
+│   ├── app/
+│   │   ├── admin/
+│   │   │   └── page.tsx
+│   │   ├── cart/
+│   │   │   └── page.tsx
+│   │   ├── checkout/
+│   │   │   └── page.tsx
+│   │   ├── login/
+│   │   │   └── page.tsx
+│   │   ├── orders/
+│   │   │   └── page.tsx
+│   │   ├── layout.tsx
+│   │   ├── page.tsx
+│   │   └── globals.css
+│   ├── components/
+│   │   ├── Navbar.tsx
+│   │   ├── ProductCard.tsx
+│   │   └── Footer.tsx
+│   └── lib/
+│       └── supabase.ts
+├── .env.local
+├── package.json
+├── tailwind.config.ts
+└── tsconfig.json
